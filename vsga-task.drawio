@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T07:14:45.244Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.4.0" etag="dftQHnBK73qeUiQK95yB" type="github">
-  <diagram name="Page-1" id="jYa8t2axEULJ61oJ8DdW">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-06-27T07:23:39.832Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="FP3qxqiaOlKfFEeFZSdC" version="21.4.0" type="github">
+  <diagram name="1.1 luas lingkaran" id="jYa8t2axEULJ61oJ8DdW">
+    <mxGraphModel dx="1374" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-H5J235AecT4ngG6NxTq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-H5J235AecT4ngG6NxTq-1" target="-H5J235AecT4ngG6NxTq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-H5J235AecT4ngG6NxTq-1" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H5J235AecT4ngG6NxTq-2" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H5J235AecT4ngG6NxTq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-H5J235AecT4ngG6NxTq-3" target="-H5J235AecT4ngG6NxTq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-H5J235AecT4ngG6NxTq-3" value="&lt;div&gt;Masukkan &lt;br&gt;&lt;/div&gt;&lt;div&gt;radius (r)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H5J235AecT4ngG6NxTq-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-H5J235AecT4ngG6NxTq-4" target="-H5J235AecT4ngG6NxTq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-H5J235AecT4ngG6NxTq-4" value="L = 22 / 7 * r * r" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-H5J235AecT4ngG6NxTq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-H5J235AecT4ngG6NxTq-5" target="-H5J235AecT4ngG6NxTq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-H5J235AecT4ngG6NxTq-5" value="Cetak L" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
